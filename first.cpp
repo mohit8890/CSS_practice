@@ -8,3 +8,5 @@ int main(){
     cout<<"My name is :"<<name<<endl;
     cout<<"My age is :"<<age;
     }
+    //fist.cpp
+    
